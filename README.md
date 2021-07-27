@@ -1,2 +1,1 @@
-# Arte em Corel
- Artes Corel
+Artes Corel
